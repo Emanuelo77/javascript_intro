@@ -122,4 +122,4 @@ const zahlenArray = [1, 2, 3, 4, 5];
 const verdoppelt = zahlenArray.map(zahl => zahl * 2); // Verwendet eine Arrow-Funktion als Callback
 
 console.log(verdoppelt); // Gibt [2, 4, 6, 8, 10] aus
-JavaScript-Funktionen sind vielseitig und mächtig. Sie ermöglichen die Strukturierung von Code in logischen Blöcken, die Ausführung von Aufgaben und die Berechnung von Werten auf effiziente Weise. Die Fähigkeit, Funktionen zu definieren, zu übergeben und als Werte zu behandeln, ist ein grundlegendes Konzept, das JavaScript seine Flexibilität und Ausdruckskraft ve
+JavaScript-Funktionen sind vielseitig und mächtig. Sie ermöglichen die Strukturierung von Code in logischen Blöcken, die Ausführung von Aufgaben und die Berechnung von Werten auf effiziente Weise. Die Fähigkeit, Funktionen zu definieren, zu übergeben und als Werte zu behandeln, ist ein grundlegendes Konzept, das JavaScript seine Flexibilität und Ausdruckskraft verleiht.
